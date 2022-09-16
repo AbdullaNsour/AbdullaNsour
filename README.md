@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulla Nsour</h1>
+<h1 align="center">Hi 👋, I'm Abdulla Nsour </h1>
 <h3 align="center">A Trainee at Orange Coding Academy frontend developer from Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullansour&label=Profile%20views&color=0e75b6&style=flat" alt="abdullansour" /> </p>
